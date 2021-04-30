@@ -19,10 +19,31 @@
 			"path": "codeql-custom-queries-python"
 		},
 		{
-			"path": "codeql-go"
+			"path": "..\\..\\Codeql_Home\\codeql-repo"
 		},
 		{
-			"path": "ql"
+			"name": "[test02-database-array-index-out-of-bounds-7 source archive]",
+			"uri": "codeql-zip-archive://1-92/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-7\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-8 source archive]",
+			"uri": "codeql-zip-archive://1-92/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-8\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-9 source archive]",
+			"uri": "codeql-zip-archive://1-92/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-9\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-10 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-10\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-11 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-11\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-12 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-12\\src.zip"
 		}
 	],
 	"settings": {
