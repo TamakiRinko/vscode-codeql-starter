@@ -1,12 +1,14 @@
 /**
- * @name Empty block
+ * @id java/int-search
+ * @name Int Search
+ * @description Finds int variables
  * @kind problem
- * @problem.severity warning
- * @id java/example/empty-block
+ * @problem.severity recommendation
  */
 
 import java
 
-from BlockStmt b
-where b.getNumStmt() = 0
-select b, "This is an empty block."
+from Variable v, PrimitiveType pt
+where pt = v.getType() and
+    pt.hasName("int")
+select v, "variable is " + v.getName(), pt, "type = " + pt.getName()
