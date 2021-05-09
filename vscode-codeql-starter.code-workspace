@@ -44,6 +44,82 @@
 		{
 			"name": "[test02-database-array-index-out-of-bounds-12 source archive]",
 			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-12\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-13 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-13\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-14 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-14\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-15 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-test-02\\test02-database-array-index-out-of-bounds-15\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-1 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-1\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-2 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-2\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-3 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-3\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-4 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-4\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-5 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-5\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-6 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-6\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-7 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-7\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-8 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-8\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-9 source archive]",
+			"uri": "codeql-zip-archive://1-98/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-9\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-10 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-10\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-11 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-11\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-12 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-12\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-13 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-13\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-14 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-14\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-15 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-15\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-16 source archive]",
+			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-16\\src.zip"
 		}
 	],
 	"settings": {

@@ -46,6 +46,8 @@ predicate boundedArrayAccess(ArrayAccess aa, int k) {
       // 该域访问访问的是数组长度域，即访问的是arr.length这个域！
       len.getField() instanceof ArrayLengthField and
       // 访问的是该数组
+      // TODO: 第三处改动
+      // len.getQualifier() = arr.getAUse()
       len.getQualifier().(ArrayAccess).getArray*() = arr.getAUse() and
       // block就是长度域，找到使用了arr.length的那个边界
       b.getExpr() = len and

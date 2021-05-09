@@ -8,6 +8,12 @@
 
 import java
 
+string getIntName(Variable v, PrimitiveType pt){
+    pt = v.getType() and
+    pt.hasName("int") and
+    result = v.getName()
+}
+
 from Variable v, PrimitiveType pt
 where pt = v.getType() and
     pt.hasName("int")
