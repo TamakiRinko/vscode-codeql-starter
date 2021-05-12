@@ -120,6 +120,30 @@
 		{
 			"name": "[database-local-taint-tracking-16 source archive]",
 			"uri": "codeql-zip-archive://1-99/d:\\NJU_Study\\Codeql_Home\\codeql-test-local-taint-tracking\\database-local-taint-tracking-16\\src.zip"
+		},
+		{
+			"name": "[apache_maven_3e91767 source archive]",
+			"uri": "codeql-zip-archive://1-68/d:\\NJU_Study\\Codeql_Home\\lgtm-database\\apache_maven_3e91767\\src.zip"
+		},
+		{
+			"name": "[database-http-response-splitting-1 source archive]",
+			"uri": "codeql-zip-archive://1-82/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-http-response-splitting-1\\src.zip"
+		},
+		{
+			"name": "[database-cwe-020-1 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-020-1\\src.zip"
+		},
+		{
+			"name": "[database-cwe-020-2 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-020-2\\src.zip"
+		},
+		{
+			"name": "[database-cwe-020-3 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-020-3\\src.zip"
+		},
+		{
+			"name": "[database-cwe-020-4 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-020-4\\src.zip"
 		}
 	],
 	"settings": {
