@@ -144,6 +144,78 @@
 		{
 			"name": "[database-cwe-020-4 source archive]",
 			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-020-4\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-1 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-1\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-2 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-2\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-3 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-3\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-4 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-4\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-5 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-5\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-6 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-6\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-7 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-7\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-8 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-8\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-9 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-9\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-10 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-10\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-11 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-11\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-12 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-12\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-13 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-13\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-14 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-14\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-15 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-15\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-16 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-16\\src.zip"
+		},
+		{
+			"name": "[database-cwe-113-17 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-113-17\\src.zip"
+		},
+		{
+			"name": "[database-cwe-209-1 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-209-1\\src.zip"
 		}
 	],
 	"settings": {
