@@ -216,6 +216,14 @@
 		{
 			"name": "[database-cwe-209-1 source archive]",
 			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-209-1\\src.zip"
+		},
+		{
+			"name": "[database-cwe-209-2 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-209-2\\src.zip"
+		},
+		{
+			"name": "[database-cwe-209-3 source archive]",
+			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-209-3\\src.zip"
 		}
 	],
 	"settings": {
