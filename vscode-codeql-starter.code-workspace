@@ -224,6 +224,38 @@
 		{
 			"name": "[database-cwe-209-3 source archive]",
 			"uri": "codeql-zip-archive://1-66/d:\\NJU_Study\\Codeql_Home\\codeql-global\\database-cwe-209-3\\src.zip"
+		},
+		{
+			"name": "[database-busy-wait-1 source archive]",
+			"uri": "codeql-zip-archive://1-80/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Concurrency\\database-busy-wait-1\\src.zip"
+		},
+		{
+			"name": "[database-busy-wait-2 source archive]",
+			"uri": "codeql-zip-archive://1-80/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Concurrency\\database-busy-wait-2\\src.zip"
+		},
+		{
+			"name": "[database-double-checked-locking-1 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Concurrency\\database-double-checked-locking-1\\src.zip"
+		},
+		{
+			"name": "[database-double-checked-locking-2 source archive]",
+			"uri": "codeql-zip-archive://1-93/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Concurrency\\database-double-checked-locking-2\\src.zip"
+		},
+		{
+			"name": "[database-iterator-remove-may-fail-1 source archive]",
+			"uri": "codeql-zip-archive://1-95/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Collections\\database-iterator-remove-may-fail-1\\src.zip"
+		},
+		{
+			"name": "[database-iterator-remove-may-fail-2 source archive]",
+			"uri": "codeql-zip-archive://1-95/d:\\NJU_Study\\Codeql_Home\\codeql-safety\\Collections\\database-iterator-remove-may-fail-2\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-15 source archive]",
+			"uri": "codeql-zip-archive://1-97/d:\\NJU_Study\\Codeql_Home\\codeql-array-index\\test02-database-array-index-out-of-bounds-15\\src.zip"
+		},
+		{
+			"name": "[test02-database-array-index-out-of-bounds-16 source archive]",
+			"uri": "codeql-zip-archive://1-97/d:\\NJU_Study\\Codeql_Home\\codeql-array-index\\test02-database-array-index-out-of-bounds-16\\src.zip"
 		}
 	],
 	"settings": {
