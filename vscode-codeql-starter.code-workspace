@@ -256,6 +256,46 @@
 		{
 			"name": "[test02-database-array-index-out-of-bounds-16 source archive]",
 			"uri": "codeql-zip-archive://1-97/d:\\NJU_Study\\Codeql_Home\\codeql-array-index\\test02-database-array-index-out-of-bounds-16\\src.zip"
+		},
+		{
+			"name": "[database-eladmin-1 source archive]",
+			"uri": "codeql-zip-archive://1-60/d:\\NJU_Study\\Codeql_Home\\project\\database-eladmin-1\\src.zip"
+		},
+		{
+			"name": "[database-mall-1 source archive]",
+			"uri": "codeql-zip-archive://1-57/d:\\NJU_Study\\Codeql_Home\\project\\database-mall-1\\src.zip"
+		},
+		{
+			"name": "[database-My-Blog-1 source archive]",
+			"uri": "codeql-zip-archive://1-60/d:\\NJU_Study\\Codeql_Home\\project\\database-My-Blog-1\\src.zip"
+		},
+		{
+			"name": "[database-pig-1 source archive]",
+			"uri": "codeql-zip-archive://1-56/d:\\NJU_Study\\Codeql_Home\\project\\database-pig-1\\src.zip"
+		},
+		{
+			"name": "[database-guns-1 source archive]",
+			"uri": "codeql-zip-archive://1-57/d:\\NJU_Study\\Codeql_Home\\project\\database-guns-1\\src.zip"
+		},
+		{
+			"name": "[database-weixin-java-tools-1 source archive]",
+			"uri": "codeql-zip-archive://1-70/d:\\NJU_Study\\Codeql_Home\\project\\database-weixin-java-tools-1\\src.zip"
+		},
+		{
+			"name": "[database-litemall-1 source archive]",
+			"uri": "codeql-zip-archive://1-61/d:\\NJU_Study\\Codeql_Home\\project\\database-litemall-1\\src.zip"
+		},
+		{
+			"name": "[database-bbs_kuangstudy-1 source archive]",
+			"uri": "codeql-zip-archive://1-67/d:\\NJU_Study\\Codeql_Home\\project\\database-bbs_kuangstudy-1\\src.zip"
+		},
+		{
+			"name": "[database-cjlgb-cloud-platform-1 source archive]",
+			"uri": "codeql-zip-archive://1-73/d:\\NJU_Study\\Codeql_Home\\project\\database-cjlgb-cloud-platform-1\\src.zip"
+		},
+		{
+			"name": "[database-yshopmall-1 source archive]",
+			"uri": "codeql-zip-archive://1-62/d:\\NJU_Study\\Codeql_Home\\project\\database-yshopmall-1\\src.zip"
 		}
 	],
 	"settings": {
