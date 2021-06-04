@@ -296,6 +296,18 @@
 		{
 			"name": "[database-yshopmall-1 source archive]",
 			"uri": "codeql-zip-archive://1-62/d:\\NJU_Study\\Codeql_Home\\project\\database-yshopmall-1\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-18 source archive]",
+			"uri": "codeql-zip-archive://1-79/d:\\NJU_Study\\Codeql_Home\\codeql-local\\database-local-taint-tracking-18\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-19 source archive]",
+			"uri": "codeql-zip-archive://1-79/d:\\NJU_Study\\Codeql_Home\\codeql-local\\database-local-taint-tracking-19\\src.zip"
+		},
+		{
+			"name": "[database-local-taint-tracking-20 source archive]",
+			"uri": "codeql-zip-archive://1-79/d:\\NJU_Study\\Codeql_Home\\codeql-local\\database-local-taint-tracking-20\\src.zip"
 		}
 	],
 	"settings": {
